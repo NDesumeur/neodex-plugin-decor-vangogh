@@ -1,0 +1,26 @@
+{
+  "id": "neodex.decorvangogh",
+  "name": "Décor Nuit étoilée",
+  "version": "1.0.0",
+  "author": "NDesumeur",
+  "icon": "icon.png",
+  "neobase": ">=4.1.0",
+  "neodex": ">=3.3.9",
+  "type": "theme",
+  "compatibility": [
+    "windows",
+    "linux",
+    "android"
+  ],
+  "mobile": true,
+  "system": false,
+  "dependencies": {},
+  "sdk": "2.1.0",
+  "permissions": [],
+  "description": "Une nuit étoilée, à la manière de Van Gogh : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+  "category": "Décors",
+  "themes": [],
+  "decors": [
+    "vangogh"
+  ]
+}
