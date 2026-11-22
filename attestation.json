@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.decorvangogh",
+  "repo": "NDesumeur/neodex-plugin-decor-vangogh",
+  "version": "1.0.0",
+  "sha256": "940b1484b7f3a046b5dcaf5eca244a88dc52164cb9ef2424c0d6feda3a5db4de",
+  "approvedAt": "2026-11-22T19:05:25.774Z",
+  "neobase": ">=4.1.0",
+  "signature": "0MWOccolQPxRM0PlV2RRWYfSZkgZYIHkvf23Ce/GJqZ1wW+ypcmTCWlHnVcLOXT83kv1BWDNuSgphjuXBsGPBw=="
+}
